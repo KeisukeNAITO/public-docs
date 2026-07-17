@@ -3,7 +3,7 @@ title: "口数ゼロなのに取得原価 1 円？ — 整数の割り算は「�
 emoji: "👻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [TypeScript, JavaScript, 設計, テスト, 個人開発]
-published: false
+published: true
 ---
 
 # 起きたこと
