@@ -3,7 +3,7 @@ title: "不正データの検証を「もう一度書かない」— 導出関�
 emoji: "🔁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [TypeScript, 設計, テスト, SvelteKit, 個人開発]
-published: false
+published: true
 ---
 
 # はじめに
